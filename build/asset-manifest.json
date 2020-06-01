@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.chunk.css",
+    "main.js": "./static/js/main.chunk.js",
+    "main.js.map": "./static/js/main.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.js",
+    "runtime-main.js.map": "./static/js/runtime-main.js.map",
+    "static/css/2.chunk.css": "./static/css/2.chunk.css",
+    "static/js/2.chunk.js": "./static/js/2.chunk.js",
+    "static/js/2.chunk.js.map": "./static/js/2.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.c1e5179d01e0bab6c1c755d0f3d3e475.js": "./precache-manifest.c1e5179d01e0bab6c1c755d0f3d3e475.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.chunk.css.map": "./static/css/2.chunk.css.map",
+    "static/css/main.chunk.css.map": "./static/css/main.chunk.css.map",
+    "static/js/2.chunk.js.LICENSE.txt": "./static/js/2.chunk.js.LICENSE.txt",
+    "static/media/app.css": "./static/media/Robotomedium.woff2",
+    "static/media/icon_rmenu_9.png": "./static/media/icon_rmenu_9.png",
+    "static/media/icon_rmenu_9_dark.png": "./static/media/icon_rmenu_9_dark.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.js",
+    "static/css/2.chunk.css",
+    "static/js/2.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
